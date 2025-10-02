@@ -1,10 +1,12 @@
 this is my readme file for my imad assignment 2
 
+my repo link - https://github.com/Chaante-lee/imadA2
+
 
 youtube video link - 
 
 
-report 
+report -
 
 
 
