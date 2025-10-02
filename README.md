@@ -260,5 +260,15 @@ class MainActivity : AppCompatActivity() {
         ).forEach { it.visibility = LinearLayout.GONE }
     }
 }
+<img width="808" height="683" alt="Screenshot 2025-10-02 182208" src="https://github.com/user-attachments/assets/0d76c74c-16b7-4489-b435-ae21500c6d5f" />
+
+
+<img width="651" height="680" alt="Screenshot 2025-10-02 182225" src="https://github.com/user-attachments/assets/8af86d62-0541-4a13-ba5c-b2608e892c22" />
+
+
+<img width="701" height="681" alt="Screenshot 2025-10-02 182257" src="https://github.com/user-attachments/assets/41eaefb4-708d-4b27-92f5-cb8d6f10abf9" />
+
+
+<img width="666" height="671" alt="Screenshot 2025-10-02 182316" src="https://github.com/user-attachments/assets/03d404ad-b305-49f5-aac1-f8599d50d1bf" />
 
 
