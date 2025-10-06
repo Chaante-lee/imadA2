@@ -6,7 +6,7 @@ my repo link - https://github.com/Chaante-lee/imadA2
 youtube video link - https://youtu.be/8iutG18TYC4  
 
 
-report -
+report -For this app I had to create an android app using Kotlin in Android studio to help students study with flashcards. The app presents questions, loops through each flashcard and provides a score based on the student’s answers. Theres a start button to begin the quiz then displays the question along with the true or false buttons to choose their answer. After the student answers a question there’s feedback in a positive manner and in the end of the quiz there’s a button called review and it shows you all the questions and the correct answer. Theres also feedback displayed at the end based on the number of answered questions correctly.
 
 
 
