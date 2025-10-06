@@ -3,7 +3,7 @@ this is my readme file for my imad assignment 2
 my repo link - https://github.com/Chaante-lee/imadA2
 
 
-youtube video link - 
+youtube video link - https://youtu.be/8iutG18TYC4  
 
 
 report -
